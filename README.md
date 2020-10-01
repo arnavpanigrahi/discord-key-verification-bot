@@ -17,6 +17,7 @@ A simple bot that checks for verification key to give access to server.
 
 # Tips
 -  Put in all your verification codes in "order_id.txt"
+- Make changes in source according to your server architecture ie roles, permissions etc.
 
 # License
 [GPL-3.0-or-later](https://www.gnu.org/licenses/) 
